@@ -1,3 +1,6 @@
 [submodule "IoT/SmartThingsOfficial/SmartThingsPublic"]
 	path = IoT/SmartThingsOfficial/SmartThingsPublic
 	url = https://github.com/SmartThingsCommunity/SmartThingsPublic.git
+[submodule "IoT/SmartThingsCommunity/IoTBench-test-suite"]
+	path = IoT/SmartThingsCommunity/IoTBench-test-suite
+	url = https://github.com/IoTBench/IoTBench-test-suite.git
