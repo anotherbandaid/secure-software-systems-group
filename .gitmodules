@@ -1,0 +1,3 @@
+[submodule "IoT/SmartThingsOfficial/SmartThingsPublic"]
+	path = IoT/SmartThingsOfficial/SmartThingsPublic
+	url = https://github.com/SmartThingsCommunity/SmartThingsPublic.git
